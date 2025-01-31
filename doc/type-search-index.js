@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"Programación.Trim2.Tema6.PracticaObligatoria","l":"Dispositivo"},{"p":"Programación.Trim2.Tema6.PracticaObligatoria","l":"Impresora"},{"p":"Programación.Trim2.Tema6.PracticaObligatoria","l":"Main"},{"p":"Programación.Trim2.Tema6.PracticaObligatoria","l":"Ordenador"}];updateSearchResults();
